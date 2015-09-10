@@ -22,3 +22,6 @@ Stack:
 -- Ionic
 -- Cordova
 - Node JS
+
+
+be sure to install meteor add dburles:google-maps mdg:geolocation to make the maps work!
